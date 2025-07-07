@@ -1,4 +1,4 @@
-# 🧠 Applied AI & ML Lab Exercises
+#  Applied AI & ML Lab Exercises
 
 *IIIT Hyderabad – Certification Program | Hands-On Machine Learning & Deep Learning*
 
@@ -6,17 +6,17 @@ Welcome to my repository of lab notebooks and projects completed as part of the 
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
-* ✅ Core ML Algorithms implemented from scratch
-* 📊 Clean visualizations & intuitive explanations
-* 🧪 Real-world data preprocessing and model tuning
-* 🧠 Neural Network implementation using TensorFlow/Keras
-* 🔁 Modular, reproducible, and Colab-compatible notebooks
+*  Core ML Algorithms implemented from scratch
+*  Clean visualizations & intuitive explanations
+*  Real-world data preprocessing and model tuning
+*  Neural Network implementation using TensorFlow/Keras
+*  Modular, reproducible, and Colab-compatible notebooks
 
 ---
 
-## 📚 Modules & Topics
+##  Modules & Topics
 
 | Module       | Focus Areas                                               |
 | ------------ | --------------------------------------------------------- |
@@ -30,20 +30,7 @@ Welcome to my repository of lab notebooks and projects completed as part of the 
 
 ---
 
-## 🧾 Sample Notebooks
-
-* `✅ AIML_Module_2_Lab2_Principal_Components_Analysis.ipynb`
-* `✅ AIML_Module_3_Lab_2_Implementing_KNN_from_Scratch.ipynb`
-* `✅ AIML_Module_4_Lab_3_Gradient_Descent.ipynb`
-* `✅ AIML_Module_5_Lab_3_Clustering.ipynb`
-* `✅ AIML_Module_6_Lab_1_Neural_Network_1.ipynb`
-* `✅ AIML_Speech_Processing_with_Python.ipynb`
-
-Each notebook is well-documented and explains both the "why" and the "how" behind the concepts.
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Environment:** Google Colab / Jupyter Notebook
@@ -54,7 +41,7 @@ Each notebook is well-documented and explains both the "why" and the "how" behin
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Build strong foundations in machine learning and AI
 * Apply concepts through code, rather than just theory
@@ -63,7 +50,7 @@ Each notebook is well-documented and explains both the "why" and the "how" behin
 
 ---
 
-## 🏁 About the Program
+##  About the Program
 
 This repository is part of the **6-month Applied AI & Machine Learning Certification Program by IIIT-Hyderabad**, focused on **hands-on implementation**, **algorithmic thinking**, and **problem-solving with code**.
 
